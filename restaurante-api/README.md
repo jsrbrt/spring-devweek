@@ -1,17 +1,11 @@
 <h1>Restaurante API</h1>
 <p>API para expor um CRUD de um dominínio de Restaurante</p>
 <p align="center">
-<a href="https://docs.google.com/presentation/d/11rOmP1u7nwYv5mL4ovmquYMZWktPwIiJ/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 3</a> ♥ 
+<a href="https://docs.google.com/presentation/d/11rOmP1u7nwYv5mL4ovmquYMZWktPwIiJ/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 3</a>  
 <a href="https://docs.google.com/presentation/d/162KrAjBivpN4GKzPVwv7y-JcIPUnN1_h/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 4</a>
 </p>
 
-<h2 align="center"> ‼️
-<a href="https://www.dio.me/dev-week/ifood/ifood-developer">ASSISTA A DEV WEEK</a>
-‼️
-</h2>
-
-<h3>Status do Projeto</h3>
-<p align="center"> Restaurante API 💻 Em construção... </p>
+<img src="https://i.imgur.com/pfubmkj.png" alt="Restaurante API Swagger UI">
 
 <h3>Features</h3>
 
@@ -20,11 +14,11 @@
 - [x] Visualizar um restaurante específico já salvo no banco de dados<br>
 - [x] Atualizar um restaurante já salvo no banco de dados<br>
 - [x] Deletar um restaurante já salvo no banco de dados<br>
-- [ ] Cadastrar produtos no banco de dados<br>
-- [ ] Visualizar todos os produtos do banco de dados<br>
-- [ ] Visualizar um produto específico já salvo no banco de dados<br>
-- [ ] Atualizar um produto já salvo no banco de dados<br>
-- [ ] Deletar um produto já salvo no banco de dados<br>
+- [x] Cadastrar produtos no banco de dados<br>
+- [x] Visualizar todos os produtos do banco de dados<br>
+- [x] Visualizar um produto específico já salvo no banco de dados<br>
+- [x] Atualizar um produto já salvo no banco de dados<br>
+- [x] Deletar um produto já salvo no banco de dados<br>
 
 <h3>Para você fazer:</h3>
 <ol>
@@ -38,8 +32,8 @@
 	<li>Testar no <strong>Swagger UI</strong></li>
 </ol>
 
-<h3>Demostração da Aplicação</h3>
-<p>Antes de começar, você precisará ter instalado em sua máquina as seguintes ferramentas:</p>
+<h3>Ferramentas Utilizadas</h3>
+
 <table>
 <tr>
 	<th>Ferramenta</th>
@@ -62,17 +56,6 @@
 	<td>9.**</td>
 </tr>
 </table>
-<h6>** Visando facilitar a demostração da aplicação, recomendo instalar apenas o IntelliJ IDEA e rodar o projeto através da IDE **</h6>
-
-No Terminal/Console:
-<ol>
-	<li>Faça um clone do projeto na sua máquina: <code>git clone https://github.com/cami-la/restaurante-api.git</code></li>
-	<li>Entre na pasta raiz do projeto: <code>cd restaurante-api</code></li> 
-	<li>Rode o comando: <code>./gradlew bootrun</code></li>
-	<li>Com a aplicação "de pé", clique aqui: <a href="http://localhost:8081/swagger-ui/">http://localhost:8081/swagger-ui/</a></li>
-</ol>
-
-<img src="https://i.imgur.com/pfubmkj.png" alt="Restaurante API Swagger UI">
 
 <h3>Tecnologias Utilizadas</h3>
 
@@ -106,28 +89,3 @@ No Terminal/Console:
 	<td>2.1.214</td>
 </tr>
 </table>
-
-<h3>Author</h3>
-
-<a href="https://www.linkedin.com/in/cami-la/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Camila Cavalcante</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="DIO"></a>
-
-Feito com ❤️ por Cami-la 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Camila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cami-la/)](https://www.linkedin.com/in/cami-la/)
-[![Gmail Badge](https://img.shields.io/badge/-camiladsantoscavalcante@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladsantoscavalcante@gmail.com)](mailto:camiladsantoscavalcante@gmail.com)
-<hr>
-<h3>Contribuindo</h3>
-
-Este repositório foi criado para fins de estudo, então contribua com ele.<br>
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compatilhar.
-
-Se possível:
-
-⭐️  Star o projeto
-
-🐛 Encontrar e relatar issues
-
-
